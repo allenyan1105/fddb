@@ -1,2 +1,2 @@
-# fddb-for-yolo
-Code for converting FDDB data to the format required by YOLO
+clone from https://github.com/ankanbansal/fddb-for-yolo
+script will help to prepare KITTI format of datasets
